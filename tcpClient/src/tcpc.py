@@ -16,4 +16,4 @@ sock.connect((TCP_IP, TCP_PORT))
 
 while True:
     sock.send(messageEncoded)
-    time.sleep(3)
+    time.sleep(3) 
